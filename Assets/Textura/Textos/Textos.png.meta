@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 3abdf1482a594b34fb1e042f381b4d02
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Textos_1
+    21300002: Textos_5
+    21300004: Textos_6
+    21300006: Textos_8
+    21300008: Textos_9
+    21300010: Textos_10
+    21300012: Textos_11
+    21300014: Textos_12
+    21300016: Textos_13
+    21300018: Textos_14
+    21300020: Textos_15
+    21300022: Textos_16
+    21300024: Textos_17
+    21300026: Textos_18
+    21300028: Textos_19
+    21300030: Textos_20
+    21300032: Textos_32
+    21300034: Textos_34
+    21300036: Textos_36
+    21300038: Textos_38
+    21300040: Textos_39
+    21300042: Textos_43
+    21300044: Textos_46
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Textos_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 283
+        width: 238
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 249
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 247
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 222
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 222
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 222
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 222
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 222
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 222
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 222
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_15
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 222
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 222
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 222
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 177
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 178
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 117
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 148
+        width: 189
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 116
+        width: 81
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 116
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 78
+        width: 148
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 26
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 38
+        width: 147
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Textos_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 144
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 1d8e6de826fc2474cab03c362bdb06b8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spriteGame_0
+    21300002: spriteGame_1
+    21300004: spriteGame_2
+    21300006: spriteGame_3
+    21300008: spriteGame_4
+    21300010: spriteGame_5
+    21300012: spriteGame_6
+    21300014: spriteGame_12
+    21300016: spriteGame_13
+    21300018: spriteGame_22
+    21300020: spriteGame_23
+    21300022: spriteGame_24
+    21300024: spriteGame_25
+    21300026: spriteGame_26
+    21300028: spriteGame_27
+    21300030: spriteGame_28
+    21300032: spriteGame_29
+    21300034: spriteGame_30
+    21300036: spriteGame_31
+    21300038: spriteGame_32
+    21300040: spriteGame_33
+    21300042: spriteGame_34
+    21300044: spriteGame_35
+    21300046: spriteGame_36
+    21300048: spriteGame_37
+    21300050: spriteGame_38
+    21300052: spriteGame_39
+    21300054: spriteGame_40
+    21300056: spriteGame_41
+    21300058: spriteGame_42
+    21300060: spriteGame_43
+    21300062: spriteGame_44
+    21300064: spriteGame_45
+    21300066: spriteGame_46
+    21300068: spriteGame_47
+    21300070: spriteGame_50
+    21300072: spriteGame_51
+    21300074: spriteGame_53
+    21300076: spriteGame_55
+    21300078: spriteGame_56
+    21300080: spriteGame_57
+    21300082: spriteGame_58
+    21300084: spriteGame_59
+    21300086: spriteGame_60
+    21300088: spriteGame_61
+    21300090: spriteGame_62
+    21300092: spriteGame_63
+    21300094: spriteGame_64
+    21300096: spriteGame_65
+    21300098: spriteGame_66
+    21300100: spriteGame_67
+    21300102: spriteGame_68
+    21300104: spriteGame_69
+    21300106: spriteGame_70
+    21300108: spriteGame_71
+    21300110: spriteGame_72
+    21300112: spriteGame_73
+    21300114: spriteGame_74
+    21300116: spriteGame_75
+    21300118: spriteGame_76
+    21300120: spriteGame_77
+    21300122: spriteGame_78
+    21300124: spriteGame_83
+    21300126: spriteGame_84
+    21300128: spriteGame_85
+    21300130: spriteGame_88
+    21300132: spriteGame_89
+    21300134: spriteGame_90
+    21300136: spriteGame_91
+    21300138: spriteGame_92
+    21300140: spriteGame_93
+    21300142: spriteGame_94
+    21300144: spriteGame_95
+    21300146: spriteGame_96
+    21300148: spriteGame_97
+    21300150: spriteGame_98
+    21300152: spriteGame_99
+    21300154: spriteGame_100
+    21300156: spriteGame_101
+    21300158: spriteGame_102
+    21300160: spriteGame_103
+    21300162: spriteGame_105
+    21300164: spriteGame_106
+    21300166: spriteGame_107
+    21300168: spriteGame_108
+    21300170: spriteGame_109
+    21300172: spriteGame_110
+    21300174: spriteGame_111
+    21300176: spriteGame_112
+    21300178: spriteGame_113
+    21300180: spriteGame_114
+    21300182: spriteGame_115
+    21300184: spriteGame_116
+    21300186: spriteGame_117
+    21300188: spriteGame_118
+    21300190: spriteGame_119
+    21300192: spriteGame_120
+    21300194: spriteGame_121
+    21300196: spriteGame_122
+    21300198: spriteGame_123
+    21300200: spriteGame_124
+    21300202: spriteGame_125
+    21300204: spriteGame_126
+    21300206: spriteGame_127
+    21300208: spriteGame_128
+    21300210: spriteGame_129
+    21300212: spriteGame_130
+    21300214: spriteGame_131
+    21300216: spriteGame_132
+    21300218: spriteGame_133
+    21300220: spriteGame_134
+    21300222: spriteGame_135
+    21300224: spriteGame_136
+    21300226: spriteGame_137
+    21300228: spriteGame_138
+    21300230: spriteGame_139
+    21300232: spriteGame_140
+    21300234: spriteGame_141
+    21300236: spriteGame_142
+    21300238: spriteGame_141
+    21300240: spriteGame_134
+    21300242: spriteGame_135
+    21300244: spriteGame_7
+    21300246: spriteGame_8
+    21300248: spriteGame_9
+    21300250: spriteGame_10
+    21300252: spriteGame_11
+    21300254: spriteGame_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spriteGame_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 483
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 483
+        width: 104
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+    - name: spriteGame_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 478
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 482
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 482
+        width: 112
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 329
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 28
+        width: 109
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 31
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 26
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 36
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 30
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 329
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 329
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 329
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGame_14
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 328
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
